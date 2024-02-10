@@ -1,0 +1,1 @@
+from primos import NumPrimos
